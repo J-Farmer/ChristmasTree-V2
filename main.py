@@ -1,6 +1,6 @@
 from turtle import Turtle, Screen
 from random import randint
-
+from random import choice
 
 t = Turtle()
 #t.speed(0)
